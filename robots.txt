@@ -1,1 +1,2 @@
+User-agent: *
 Sitemap: https://laurieg28.github.io/project-4-oc/sitemap.xml
