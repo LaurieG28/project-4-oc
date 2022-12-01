@@ -189,7 +189,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: #000000 !important;
 }
 
 .d-bloc .panel button:hover,
@@ -647,6 +647,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
+  color: #000000;
 }
 
 .container {
@@ -691,7 +692,7 @@ p {
   padding: 12px 28px 12px 28px;
   font-size: 16px;
   font-weight: 700;
-  color: #000000 !important;
+  color: #000000;
 }
 
 .social {
@@ -718,7 +719,7 @@ h3 {
 }
 
 h1 {
-  color: #333333 !important;
+  color: #ffffff;
 }
 
 h4 {
@@ -770,7 +771,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff;
 }
 
 .btn-atomic-tangerine {
@@ -783,6 +784,8 @@ h4 {
 
 .ltc-white {
   color: #ffffff !important;
+  display: flex;
+  justify-content: center;
 }
 
 .ltc-white:hover {
